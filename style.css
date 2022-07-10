@@ -1,3 +1,7 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
 .first-portion {
     text-align: center;
     background-image: url(images/donation13.jpg);
@@ -34,6 +38,7 @@
     margin-left: 3.8in;
     margin-right: 4in;
     margin-bottom: .5in;
+
 }
 
 .donate-ammount {
@@ -61,14 +66,32 @@ hr {
     margin-bottom: .5in;
 }
 
+.flexibleoptn {
+    display: flex;
+    margin-left: 1.5in;
+    margin-right: 1.5in;
+    margin-bottom: .5in;
+
+}
+
 .box-shaping {
-    width: 35%;
-    margin-left: 17%;
-    margin-right: 5%;
-    box-shadow: 300px 300px 300px black;
+    height: 3in;
+    width: 3.4in;
+    margin-right: 20px;
+    box-shadow: 4px 4px 4px;
+    padding: 10px 10px 10px 10px;
+    font-size: small;
 }
 
 #boxblue {
 
-    background-image: linear-gradient(skyblue blue);
+    background-color: #d9eaf0;
+}
+
+#boxpink {
+    background-color: hsl(351, 90%, 92%);
+}
+
+#boxyellow {
+    background-color: rgb(241, 241, 163);
 }
