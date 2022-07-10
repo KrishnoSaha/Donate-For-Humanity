@@ -1,0 +1,74 @@
+.first-portion {
+    text-align: center;
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 100px;
+
+}
+
+
+.header-color {
+    color: antiquewhite;
+}
+
+
+.donate-button {
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+
+
+
+}
+
+.second-portion {
+    text-align: center;
+    margin-top: .5in;
+}
+
+.flexible {
+    display: flex;
+    margin-left: 3.8in;
+    margin-right: 4in;
+    margin-bottom: .5in;
+}
+
+.donate-ammount {
+    font-size: 30px;
+
+    background-color: antiquewhite;
+    margin-right: 20px;
+    padding: 5px 15px;
+}
+
+#color-ammount {
+    color: red;
+    background-image: linear-gradient(orange);
+    border: 5px solid orangered;
+}
+
+.other-ammount {
+    text-align: center;
+    margin-bottom: .7in;
+}
+
+hr {
+    margin-left: 4in;
+    margin-right: 3.9in;
+    margin-bottom: .5in;
+}
+
+.box-shaping {
+    width: 35%;
+    margin-left: 17%;
+    margin-right: 5%;
+    box-shadow: 300px 300px 300px black;
+}
+
+#boxblue {
+
+    background-image: linear-gradient(skyblue blue);
+}
