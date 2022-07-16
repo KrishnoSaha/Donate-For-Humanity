@@ -115,18 +115,18 @@ hr {
 
 .bonus {
     display: flex;
-    width: 70%;
+    margin-left: 2%;
     padding-bottom: .5in;
+
 }
 
 .volunteer1 {
-    width: 30%;
     margin-left: 20px;
+    margin-right: 0px;
+    font-size: larger;
 }
 
 .volunteer2 {
-    width: 30%;
-    border-image-width: 3in;
-    object-fit: contain;
-
+    padding-left: 20%;
+    padding-right: 20%;
 }
